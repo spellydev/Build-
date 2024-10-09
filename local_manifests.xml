@@ -21,4 +21,4 @@
     <!-- Hardware -->
     <project path="hardware/xiaomi/mt6768" name="hardware_xiaomi" remote="MohamedDevvv" revision="lineage-21" />
 
-</manifest>
+<manifest>
