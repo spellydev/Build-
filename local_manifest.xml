@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="MohamedDevvv" fetch="https://github.com/MohamedDevvv" />
-  <remote name="MAT" fetch="https://github.com/ProjectMatrixx" />
+  <remote name="MAT" fetch="https://github.com/DerpFest-AOSP" />
 
   <!-- /* device specific */ -->
 
