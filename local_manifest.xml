@@ -19,6 +19,7 @@
 
   <!-- hardware -->
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="MohamedDevvv" revision="lineage-21" />
+  <project path="hardware/mediatek" name="hardware_mediatek" remote="MohamedDevvv" revision="lineage-21" />
     
   <!-- sepolicy -->
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="MohamedDevvv" revision="lineage-21" />
