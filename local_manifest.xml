@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="t25" fetch="https://github.com/MohamedDevvv" />
-  <remote name="LOS" fetch="https://github.com/CipherOS" />
+  <remote name="MohamedDevvv" fetch="https://github.com/MohamedDevvv" />
+  <remote name="CIS" fetch="https://github.com/CipherOS" />
 
   <!-- /* device specific */ -->
 
@@ -21,6 +21,6 @@
   <project path="hardware/mediatek" name="vendor_xiaomi_gale" remote="MohamedDevvv" revision="lineage-21" />
     
   <!-- sepolicy -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="MohamedDevvc" revision="fourteen" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="CIS" revision="fourteen" />
 
 </manifest>
