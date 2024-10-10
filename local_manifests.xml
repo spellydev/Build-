@@ -6,7 +6,7 @@
     <remote name="Mohamed" fetch="https://github.com/MohamedDevvv" clone-depth="1" />
 
     <!-- Removals -->
-    <remove-project name="ArrowOS/android_hardware_mediatek" />
+    <remove-project name="CipherOS/android_device_mediatek_sepolicy_vndr" />
 
     <!-- Repos -->
     <!-- Device -->
