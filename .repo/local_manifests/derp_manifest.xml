@@ -4,9 +4,7 @@
 
   <remote name="MohamedDevvv" fetch="https://github.com/MohamedDevvv" />
   <remote name="MAT" fetch="https://github.com/DerpFest-AOSP" />
-
-  <!-- /* device specific */ -->
-
+  
   <!-- device -->
   <project path="device/xiaomi/gale" name="device_xiaomi_gale" remote="MohamedDevvv" revision="lineage-21" />
 
