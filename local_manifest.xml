@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="MohamedDevvv" fetch="https://github.com/MohamedDevvv" />
-  <remote name="CIS" fetch="https://github.com/CipherOS" />
+  <remote name="MAT" fetch="https://github.com/ProjectMatrixx" />
 
   <!-- /* device specific */ -->
 
