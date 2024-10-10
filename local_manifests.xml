@@ -6,7 +6,8 @@
     <remote name="Mohamed" fetch="https://github.com/MohamedDevvv" clone-depth="1" />
 
     <!-- Removals -->
-
+    
+<remove-project name="ArrowOS/android_hardware_mediatek" />
     <!-- Repos -->
     <!-- Device -->
     <project path="device/xiaomi/gale" name="device_xiaomi_gale" remote="MohamedDevvv" revision="lineage-21" />
