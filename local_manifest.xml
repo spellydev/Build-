@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="t25" fetch="https://github.com/TelegramAt25" />
+  <remote name="LOS" fetch="https://github.com/LineageOS" />
+
+  <!-- /* device specific */ -->
+
+  <!-- device -->
+  <project path="device/xiaomi/selene" name="android_device_xiaomi_selene.git" remote="t25" revision="kenvyra-13.0" />
+
+  <!-- vendor -->
+  <project path="vendor/xiaomi/selene" name="android_vendor_xiaomi_selene.git" remote="t25" revision="thirteen" />
+
+  <!-- kernel -->
+  <project path="kernel/xiaomi/selene" name="yuki_kernel_xiaomi_selene.git" remote="t25" revision="niigo" />
+
+  <!-- /* common mtk */ -->
+
+  <!-- hardware -->
+  <project path="hardware/mediatek" name="android_hardware_mediatek.git" remote="t25" revision="lineage-20" />
+
+  <!-- sepolicy -->
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr.git" remote="LOS" revision="lineage-20" />
+
+</manifest>
